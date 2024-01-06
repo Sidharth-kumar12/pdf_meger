@@ -28,3 +28,5 @@ merger.write('merged.pdf')
 
 # Close the PdfMerger object
 merger.close()
+
+print("hello")
